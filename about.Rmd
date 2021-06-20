@@ -8,3 +8,23 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+##About Me
+my name is **Gabriel**, i go to White oaks secondary school and my favourite subjects are Biology and Chemistry
+
+##About the Project
+*Cars*
+
+its a project about cars
+
+###
+* this is to practice making a website
+  + I have 0 experience in doing this
+  
+  
+*this is to see how git hub makes a website
+
+"This is data science"
+
+[Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/)
+
+~Preceptor
