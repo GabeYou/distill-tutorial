@@ -15,6 +15,29 @@
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
       "last_modified": "2021-06-20T01:06:27-04:00"
+    },
+    {
+      "path": "source_A.html",
+      "author": [],
+      "contents": "\r\ncreate_article()— title: “Source A” description: | Detailed notes for Source A author: - name: Gabriel You\r\ntext: “Sources”\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-21T16:53:17-04:00"
+    },
+    {
+      "path": "source_B.html",
+      "title": "Source B",
+      "description": "Detailed notes for Source B\n",
+      "author": [
+        {
+          "name": "Gabriel You",
+          "url": {}
+        },
+        {
+          "name": {},
+          "url": {}
+        }
+      ],
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-21T16:53:54-04:00"
     }
   ],
   "collections": []
